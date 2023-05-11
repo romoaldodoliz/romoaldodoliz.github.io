@@ -13,7 +13,7 @@ https://templatemo.com/tm-578-first-portfolio
 :root {
   --white-color:                  #ffffff;
   --primary-color:                #535da1;
-  --secondary-color:              #14B789;
+  --secondary-color: #313560;
   --section-bg-color:             #f9f9f9;
   --dark-color:                   #000000;
   --p-color:                      #717275;
@@ -230,7 +230,7 @@ strong {
 }
 
 .is-sticky .navbar-icon {
-  background: var(--secondary-color);
+  background: #313560;
   color: var(--white-color);
 }
 
@@ -323,8 +323,8 @@ strong {
 }
 
 .is-sticky .navbar .custom-btn {
-  border-color: var(--secondary-color);
-  color: var(--secondary-color);
+  border-color: #313560;
+  color: #313560;
 }
 
 .is-sticky .navbar .custom-btn:hover {
@@ -468,7 +468,7 @@ strong {
   HERO              
 -----------------------------------------*/
 .hero {
-  background: var(--secondary-color);
+  background: #FFAF28;;
   position: relative;
   overflow: hidden;
   padding-top: 330px;
