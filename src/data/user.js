@@ -1,82 +1,82 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
-		logo: "../logo.png",
+		title: "Romoaldo Doliz Portfolio",
+		name: "Romoaldo Edmundo Doliz",
+		email: "romoaldodoliz@hotmail.com",
+		logo: "../javascript-logo.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/",
-		github: "https://github.com/",
-		linkedin: "https://linkedin.com/",
-		instagram: "https://instagram.com/",
-		stackoverflow: "https://stackoverflow.com/",
-		facebook: "https://facebook.com/",
+		twitter: "https://twitter.com/mrhopeful27",
+		github: "https://github.com/romoaldodoliz",
+		linkedin: "https://linkedin.com/in/romoaldodoliz",
+		instagram: "https://instagram.com/mrhopeful27",
+		stackoverflow: "https://stackoverflow.com/romoaldodoliz",
+		facebook: "https://facebook.com/romoaldodoliz",
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "[ Test Automation Engineer, Software Programmer, QA Engineer, Marketing Digital, Specialist Gamer ]",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"🚀 Bem-vindo ao meu portfólio! Sou um desenvolvedor de automação de teste e programador de software ambicioso, apaixonado por jogos e tecnologia. Com minha variedade de habilidades, posso trazer uma perspectiva única para o desenvolvimento de software e teste de automação.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "😄 Olá!",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"Sou Romoaldo Doliz, um profissional apaixonado pelo mundo do desenvolvimento de softwares. Com uma formação sólida em Desenvolvimento de Softwares e diversas certificações na área, estou constantemente empenhado em aprimorar minhas habilidades e me manter atualizado com as últimas tendências tecnológicas. Minha jornada profissional abrange uma ampla gama de experiências, desde o desenvolvimento robusto no backend até a criação de interfaces envolventes no frontend. Tenho uma visão abrangente e integrada do ciclo de vida de desenvolvimento de software. Além disso, sou especialista em design de interfaces, portais e fluxos de aprovação, utilizando tanto o SharePoint Online quanto o ambiente on-premise. Minha experiência em projetos abrange a criação de soluções intuitivas e eficientes, garantindo uma experiência do usuário de alta qualidade. Ao longo da minha carreira, conquistei várias certificações que atestam minha competência técnica e comprometimento com a excelência. Estou sempre buscando desafios que me permitam aplicar meu conhecimento de forma inovadora e contribuir para o sucesso de projetos. Seja na construção de sistemas complexos no backend, na criação de interfaces envolventes no frontend ou na implementação eficiente de soluções usando SharePoint, estou preparado para enfrentar qualquer desafio de desenvolvimento de software. Estou ansioso para contribuir para o sucesso do seu projeto e compartilhar minha paixão pela tecnologia.",
 	},
 
 	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
+		title: "Como disse Steve Jobs: 'As pessoas que são loucas o suficiente para pensar que podem mudar o mundo são as que o fazem.' ",
 		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
+			"Estou aqui para desafiar o status quo e inspirar a revolução, um código de cada vez.",
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Cactus Evento",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
+				"Cactus Schedule: encontre o local perfeito para o seu evento em minutos. - Release date 27 de Março 2024",
+			logo: "https://endearing-praline-e69f04.netlify.app/static/media/what-is.5100fcec5f14e7a9e332.png",
+			linkText: "Veja o Projecto Demo",
+			link: "https://endearing-praline-e69f04.netlify.app/",
+		},
+
+		{
+			title: "Ampere - Empresa de Engenharia Eléctrica - Built to Build Solutions",
+			description:
+				"Proposta e demo da nova imagem proposta para o novo website da Ampere",
+			logo: "https://amperees.co.mz/wp-content/uploads/2023/08/LOGO-Main.png",
+			linkText: "Veja o Projecto Demo",
+			link: "https://demo.amperees.co.mz",
+		},
+
+		{
+			title: "Excellent It - Website",
+			description:
+				"Somos uma empresa Moçambicana, sediada na cidade de Maputo, dinâmica, formada por uma equipe profissional e jovem, com elevado nível de motivação e com larga experiência na área das TIC’s, operando desde 2015 cujo objectivo é criar Parcerias que fazem diferença.",
+			logo: "https://www.excellentitmoz.com/assets/images/logo-2.png",
+			linkText: "Veja o Projecto Demo",
+			link: "https://www.excellentitmoz.com/",
+		},
+
+		{
+			title: "Gerador de Senhas",
+			description:
+				"Para economizar tempo em pensar numa nova password acabei criando esta solução para gerar senha.",
+			logo: "https://gerador-de-senhas-qa.netlify.app/src/Animated%20Man%20Computer%20Coding.gif",
+			linkText: "Veja o Projecto Demo",
 			link: "https://github.com",
 		},
 
 		{
-			title: "Project 2",
+			title: "LM-Cloud",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 3",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 4",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
-		},
-
-		{
-			title: "Project 5",
-			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://github.com",
+				"Website corporativo da Empresa LM-Cloud",
+			logo: "https://www.lm-cloud.com/wp-content/uploads/2021/03/LM-Clouds-Logotipo-15-de-Agosto-de-2021-2048x1335.png",
+			linkText: "Veja o Projecto",
+			link: "https://lm-cloud.com",
 		},
 	],
 };
