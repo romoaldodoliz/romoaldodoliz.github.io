@@ -1,11 +1,12 @@
 {
-	"name": "reactfolio",
+	"name": "Romoaldo Doliz Portfolio",
 	"version": "1.1.0",
 	"description": "Personal portfolio template built using Reactjs",
+	"homepage": "https://romoaldodoliz.github.io/",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "Romoaldo Doliz",
+		"email": "romoaldodoliz@hotmail.com",
+		"url": "https://romoaldodoliz.github.io"
 	},
 	"license": "MIT",
 	"private": true,
