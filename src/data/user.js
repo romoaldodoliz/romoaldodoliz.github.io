@@ -3,7 +3,7 @@ const INFO = {
 		title: "Romoaldo Doliz Portfolio",
 		name: "Romoaldo Edmundo Doliz",
 		email: "romoaldodoliz@hotmail.com",
-		logo: "../javascript-logo.png",
+		logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
 	},
 
 	socials: {
