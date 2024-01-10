@@ -3,7 +3,7 @@ const INFO = {
 		title: "Romoaldo Doliz Portfolio",
 		name: "Romoaldo Edmundo Doliz",
 		email: "romoaldodoliz@hotmail.com",
-		logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+		logo: "https://avatars.githubusercontent.com/u/63649156?s=400&u=507af89587af81b793060483659cd26b74e8bce0&v=4",
 	},
 
 	socials: {
@@ -16,7 +16,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "[ Test Automation Engineer, Software Programmer, QA Engineer, Marketing Digital, Specialist Gamer ]",
+		title: "Programador e Tester",
 		description:
 			"🚀 Bem-vindo ao meu portfólio! Sou um desenvolvedor de automação de teste e programador de software ambicioso, apaixonado por jogos e tecnologia. Com minha variedade de habilidades, posso trazer uma perspectiva única para o desenvolvimento de software e teste de automação.",
 	},
