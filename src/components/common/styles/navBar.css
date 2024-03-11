@@ -12,13 +12,13 @@
     justify-content: center;
     align-items: center;
     position: fixed;
-    top: 3vh;
+    top: 0;
+    width: 100%;
     z-index: 999;
-    width: 100%; /* Ensure navbar takes full width on all devices */
 }
 
 .nav-background {
-    width: 100%; /* Ensure navbar background takes full width */
+    width: 100%;
     height: 40px;
     background: #f0dc4f;
     box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
@@ -27,10 +27,11 @@
 
 .nav-list {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     list-style: none;
     align-items: center;
-    padding: 0 20px; /* Add padding to align items properly */
+    margin: 0;
+    padding: 0;
 }
 
 .nav-item {
@@ -54,21 +55,20 @@
 
 @media (max-width: 600px) {
     .navbar {
-        top: 0; /* Adjust position for small screens */
+        top: 0;
     }
 
     .nav-background {
-        border-radius: 0; /* Remove border-radius for better display */
+        border-radius: 0;
     }
 
     .nav-list {
-        flex-direction: column; /* Stack items vertically */
+        flex-direction: column;
         align-items: center;
-        padding: 10px 0; /* Adjust padding */
     }
 
     .nav-item {
-        margin-top: 10px; /* Add margin between items */
-        font-size: 70%; /* Adjust font size */
+        margin: 10px 0;
+        font-size: 70%;
     }
 }
