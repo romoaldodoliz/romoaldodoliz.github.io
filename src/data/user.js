@@ -38,9 +38,9 @@ const INFO = {
 			title: "Cactus Evento",
 			description:
 				"Cactus Schedule: encontre o local perfeito para o seu evento em minutos. - Release date 27 de Março 2024",
-			logo: "https://endearing-praline-e69f04.netlify.app/static/media/what-is.5100fcec5f14e7a9e332.png",
-			linkText: "Veja o Projecto Demo",
-			link: "https://endearing-praline-e69f04.netlify.app/",
+			logo: "https://cactusdemo.netlify.app/static/media/what-is.5100fcec5f14e7a9e332.png",
+			linkText: "Soon will be available",
+			link: "",
 		},
 
 		{
@@ -67,7 +67,7 @@ const INFO = {
 				"Para economizar tempo em pensar numa nova password acabei criando esta solução para gerar senha.",
 			logo: "https://gerador-de-senhas-qa.netlify.app/src/Animated%20Man%20Computer%20Coding.gif",
 			linkText: "Veja o Projecto Demo",
-			link: "https://github.com",
+			link: "https://gerador-de-senhas-qa.netlify.app",
 		},
 
 		{

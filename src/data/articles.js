@@ -34,9 +34,7 @@ function article_1() {
 
 					<div className="paragraph">
 						<a
-							href="https://www.linkedin.com/pulse/pensar-como-um-engenheiro-de-software-romoaldo-doliz/?trackingId=9ZLvCFJNTgutUHnu0s9mEA%3D%3D"
-							target="_blank"
-							rel="noreferrer">
+							href="https://www.linkedin.com/pulse/pensar-como-um-engenheiro-de-software-romoaldo-doliz/?trackingId=9ZLvCFJNTgutUHnu0s9mEA%3D%3D" >
 								Leia mais sobre isso no Linkedin
 						</a>
 					</div>
@@ -71,9 +69,7 @@ function article_2() {
 
 				<div className="paragraph">
 					<a
-						href="https://www.linkedin.com/pulse/testes-de-api-romoaldo-doliz/"
-						target="_blank"
-						rel="noreferrer">
+						href="https://www.linkedin.com/pulse/testes-de-api-romoaldo-doliz/" >
 							Leia mais sobre isso no Linkedin
 					</a>
 				</div>

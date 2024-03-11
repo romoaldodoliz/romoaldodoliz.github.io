@@ -144,8 +144,7 @@ const Homepage = () => {
 							<div className="homepage-socials">
 								<a
 									href={INFO.socials.twitter}
-									target="_blank"
-									rel="noreferrer"
+								
 								>
 									<FontAwesomeIcon
 										icon={faTwitter}
@@ -154,8 +153,6 @@ const Homepage = () => {
 								</a>
 								<a
 									href={INFO.socials.github}
-									target="_blank"
-									rel="noreferrer"
 								>
 									<FontAwesomeIcon
 										icon={faGithub}
@@ -164,8 +161,6 @@ const Homepage = () => {
 								</a>
 								<a
 									href={INFO.socials.stackoverflow}
-									target="_blank"
-									rel="noreferrer"
 								>
 									<FontAwesomeIcon
 										icon={faStackOverflow}
@@ -174,8 +169,6 @@ const Homepage = () => {
 								</a>
 								<a
 									href={INFO.socials.instagram}
-									target="_blank"
-									rel="noreferrer"
 								>
 									<FontAwesomeIcon
 										icon={faInstagram}
@@ -184,8 +177,6 @@ const Homepage = () => {
 								</a>
 								<a
 									href={`mailto:${INFO.main.email}`}
-									target="_blank"
-									rel="noreferrer"
 								>
 									<FontAwesomeIcon
 										icon={faMailBulk}
