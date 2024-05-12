@@ -55,7 +55,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/contact">Contacte-me</Link>
+								<Link to="/contact">Contacto</Link>
 							</li>
 						</ul>
 					</div>
