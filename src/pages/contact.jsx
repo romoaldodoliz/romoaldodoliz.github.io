@@ -40,11 +40,15 @@ const Contact = () => {
 
 					<div className="contact-container">
 						<div className="title contact-title">
-							Vamos conversar: Transformando ideias em resultados
+							<span role="img" aria-label="coffee"> Vamos tomar um ☕</span>
 						</div>
 
 						<div className="subtitle contact-subtitle">
-							Obrigado pelo seu interesse por favor sinta-se a vontade para me contar usando meu email <b>romoaldodoliz@hotmail.com</b> ou pelo Whatsapp <b>+258 862020616</b>.
+							Obrigado pelo seu interesse! Sinta-se à vontade para entrar em contato comigo:
+							<ul>
+								<li>Email: <b>romoaldodoliz@hotmail.com</b></li>
+								<li>WhatsApp: <b>+258 844086711</b></li>
+							</ul>
 						</div>
 					</div>
 

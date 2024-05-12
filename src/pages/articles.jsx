@@ -66,6 +66,12 @@ const Articles = () => {
 								))}
 							</div>
 						</div>
+
+						<div className="subtitle contact-subtitle">
+							Conecte-se a mim no <span role="img" aria-label="coffee"> Linkedin ☕</span>  para mais artigos relacionados a tecnologias e desenvolvimento de software.
+						</div>
+
+
 					</div>
 					<div className="page-footer">
 						<Footer />

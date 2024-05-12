@@ -28,9 +28,9 @@ const INFO = {
 	},
 
 	articles: {
-		title: "Como disse Steve Jobs: 'As pessoas que são loucas o suficiente para pensar que podem mudar o mundo são as que o fazem.' ",
+		title: "Meus artigos:",
 		description:
-			"Estou aqui para desafiar o status quo e inspirar a revolução, um código de cada vez.",
+			"Compartilhar ideias e conhecimento é a chave para o crescimento e a evolução. ",
 	},
 
 	projects: [
