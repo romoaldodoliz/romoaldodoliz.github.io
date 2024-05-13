@@ -35,6 +35,24 @@ const INFO = {
 
 	projects: [
 		{
+			title: "Petrogas S.A",
+			description:
+				"Website corporativo da empresa",
+			logo: "http://petrogas.co.mz/img/teste.png",
+			linkText: "Visite a pagina",
+			link: "http://petrogas.co.mz/",
+		},
+
+		{
+			title: "PIRCOM - NGO",
+			description:
+				"Website corporativo da empresa",
+			logo: "https://pircom.org.mz/assets/assets/img/logo.png",
+			linkText: "Visite a pagina",
+			link: "https://pircom.org.mz/",
+		},
+
+		{
 			title: "Cactus Evento",
 			description:
 				"Cactus Schedule: encontre o local perfeito para o seu evento em minutos. - Release date 27 de Março 2024",
