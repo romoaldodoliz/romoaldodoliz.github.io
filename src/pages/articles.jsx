@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
-import Logo from "../components/common/logo";
 import Article from "../components/articles/article";
 
 import INFO from "../data/user";
@@ -35,7 +34,7 @@ const Articles = () => {
 				<div className="content-wrapper">
 					<div className="articles-logo-container">
 						<div className="articles-logo">
-							<Logo width={46} />
+							{/* <Logo width={46} /> */}
 						</div>
 					</div>
 

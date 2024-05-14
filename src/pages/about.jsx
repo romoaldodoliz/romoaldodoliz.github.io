@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet";
 
 import NavBar from "../components/common/navBar";
 import Footer from "../components/common/footer";
-import Logo from "../components/common/logo";
 import Socials from "../components/about/socials";
 
 import INFO from "../data/user";
@@ -34,7 +33,7 @@ const About = () => {
 				<div className="content-wrapper">
 					<div className="about-logo-container">
 						<div className="about-logo">
-							<Logo width={46} />
+							{/* <Logo width={46} /> */}
 						</div>
 					</div>
 
